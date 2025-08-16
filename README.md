@@ -42,30 +42,25 @@ cd MeetSummarizer
 
 ---
 
-
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 
 ---
-
-
-3. Run the Application
+### 3. Run the Application
+```bash
 streamlit run app.py
 
 ---
 
-
-4. Upload Your Transcript
-
-Upload a .txt or .pdf file, or paste meeting text.
-
-Click Summarize to generate results.
+### 4. Upload Your Transcript
+- Upload a `.txt` or `.pdf` file, or paste meeting text.  
+- Click **Summarize** to generate results.  
 
 ---
 
+## 📌 Features
 
-## 📂 Project Structure
 MeetSummarizer/
 ├── app.py                 # Streamlit/Flask app
 ├── requirements.txt       # Dependencies
@@ -79,47 +74,33 @@ MeetSummarizer/
 │   └── summary.json
 └── README.md
 
----
 
+---
 
 ## 📊 Sample Output
 
-Meeting Summary:
+**Meeting Summary:**
+- Discussed upcoming product launch strategy.  
+- Marketing team to finalize campaign timeline.  
+- Engineering to resolve deployment pipeline issues.  
 
-Discussed upcoming product launch strategy.
-
-Marketing team to finalize campaign timeline.
-
-Engineering to resolve deployment pipeline issues.
-
-Plan of Action (POA):
-
- John → Draft marketing content by Aug 20
-
- Priya → Fix CI/CD pipeline issue by Aug 22
-
- Alex → Coordinate with sales team for client outreach
-
+**Plan of Action (POA):**
+- [ ] **John** → Draft marketing content by *Aug 20*  
+- [ ] **Priya** → Fix CI/CD pipeline issue by *Aug 22*  
+- [ ] **Alex** → Coordinate with sales team for client outreach  
 
 ---
-
 
 ## 🔮 Future Enhancements
-
-Integration with Google Meet / Zoom APIs for automatic transcript import
-
-Voice-to-Text conversion for live meeting analysis
-
-Export summaries and POA to Slack, Trello, or Jira
-
-Support for multi-lingual transcripts
+- Integration with **Google Meet / Zoom APIs** for automatic transcript import  
+- **Voice-to-Text conversion** for live meeting analysis  
+- Export summaries and POA to **Slack, Trello, or Jira**  
+- Support for **multi-lingual transcripts**  
 
 ---
 
-
 ## 📜 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 
 
 
