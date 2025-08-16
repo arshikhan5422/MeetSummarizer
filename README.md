@@ -40,9 +40,8 @@ It is designed to boost **team productivity** by reducing manual note-taking and
 git clone https://github.com/USERNAME/MeetSummarizer.git
 cd MeetSummarizer
 
----
-
-2. Install Dependencies
+### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
 
 3. Run the Application
@@ -107,4 +106,5 @@ Support for multi-lingual transcripts
 ## 📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
+
 
