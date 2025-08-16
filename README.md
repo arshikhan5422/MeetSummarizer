@@ -54,7 +54,9 @@ Upload a .txt or .pdf file, or paste meeting text.
 
 Click Summarize to generate results.
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
 MeetSummarizer/
 ├── app.py                 # Streamlit/Flask app
 ├── requirements.txt       # Dependencies
@@ -68,7 +70,9 @@ MeetSummarizer/
 │   └── summary.json
 └── README.md
 
-📊 Sample Output
+---
+
+## 📊 Sample Output
 
 Meeting Summary:
 
@@ -86,7 +90,9 @@ Plan of Action (POA):
 
  Alex → Coordinate with sales team for client outreach
 
-🔮 Future Enhancements
+---
+
+## 🔮 Future Enhancements
 
 Integration with Google Meet / Zoom APIs for automatic transcript import
 
@@ -96,6 +102,9 @@ Export summaries and POA to Slack, Trello, or Jira
 
 Support for multi-lingual transcripts
 
-📜 License
+---
+
+## 📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
+
