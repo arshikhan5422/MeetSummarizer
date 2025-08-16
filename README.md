@@ -33,30 +33,6 @@ It is designed to boost **team productivity** by reducing manual note-taking and
 
 ---
 
-## 🚀 Installation & Usage
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/USERNAME/MeetSummarizer.git
-cd MeetSummarizer
-
----
-
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-
----
-### 3. Run the Application
-```bash
-streamlit run app.py
-
----
-
-### 4. Upload Your Transcript
-- Upload a `.txt` or `.pdf` file, or paste meeting text.  
-- Click **Summarize** to generate results.  
-
 ---
 
 ## 📌 Features
@@ -99,8 +75,33 @@ MeetSummarizer/
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
+## 🚀 Installation & Usage
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/USERNAME/MeetSummarizer.git
+cd MeetSummarizer
+```
+---
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+---
+
+### 3. Run the Application
+```bash
+streamlit run app.py
+```
+---
+
+### 4. Upload Your Transcript
+- Upload a `.txt` or `.pdf` file, or paste meeting text.  
+- Click **Summarize** to generate results.  
+```
+---
 
 
 
+---
