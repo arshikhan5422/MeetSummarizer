@@ -40,12 +40,21 @@ It is designed to boost **team productivity** by reducing manual note-taking and
 git clone https://github.com/USERNAME/MeetSummarizer.git
 cd MeetSummarizer
 
+---
+
+
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 
+---
+
+
 3. Run the Application
 streamlit run app.py
+
+---
+
 
 4. Upload Your Transcript
 
@@ -54,6 +63,7 @@ Upload a .txt or .pdf file, or paste meeting text.
 Click Summarize to generate results.
 
 ---
+
 
 ## 📂 Project Structure
 MeetSummarizer/
@@ -70,6 +80,7 @@ MeetSummarizer/
 └── README.md
 
 ---
+
 
 ## 📊 Sample Output
 
@@ -89,7 +100,9 @@ Plan of Action (POA):
 
  Alex → Coordinate with sales team for client outreach
 
+
 ---
+
 
 ## 🔮 Future Enhancements
 
@@ -103,8 +116,10 @@ Support for multi-lingual transcripts
 
 ---
 
+
 ## 📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
+
 
 
