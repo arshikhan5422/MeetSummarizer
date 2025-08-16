@@ -99,9 +99,5 @@ streamlit run app.py
 ### 4. Upload Your Transcript
 - Upload a `.txt` or `.pdf` file, or paste meeting text.  
 - Click **Summarize** to generate results.  
-```
 ---
 
-
-
----
